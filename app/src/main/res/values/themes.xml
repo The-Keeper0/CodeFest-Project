@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Practice_codefest" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/ft_primary</item>
+        <item name="colorOnPrimary">@color/ft_white</item>
+    </style>
+
+    <style name="Theme.Practice_codefest" parent="Base.Theme.Practice_codefest" />
+</resources>
